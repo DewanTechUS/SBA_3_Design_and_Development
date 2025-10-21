@@ -1,0 +1,19 @@
+body {
+  font-family: 'DM Sans', sans-serif;
+     background-color: #f8f9fa;
+}
+
+.tile {
+  border-radius: 18px;
+    padding: 1.5rem;
+    text-align: center;
+  height: 100%;
+}
+
+.bg-purple { background: #7650dc; color: #ffffff; }
+.bg-yellow { background: #ffcb6b; }
+.bg-cream { background: #f9eee1; }
+.bg-lavender { background: #dacffc; }
+.bg-white { background: white; }
+
+  img { max-width: 100%; height: auto; border-radius: 12px; }
