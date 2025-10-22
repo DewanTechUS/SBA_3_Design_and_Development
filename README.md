@@ -1,4 +1,4 @@
-SBA: Design and Development – Bento Grid (Bootstrap)
+SBA 3: Design and Development – Bento Grid (Bootstrap)
 
 Overview
 
